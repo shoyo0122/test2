@@ -1,0 +1,9 @@
+@media (max-width: 600px){
+    .container {
+      flex-direction: column;
+    }
+    .main,
+    .side {
+      width: 100%;
+    }
+  }
